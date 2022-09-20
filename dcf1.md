@@ -51,5 +51,23 @@
 4. ppt，word，excel，口头
 5. 对领导、对投资者、对客户、对合伙人、对面试官等
 
+难点：
+1. 利润不等于现金流
+2. 结论是不准确的
+3. 数据不好找，尤其是小公司
+4. excel 的建立
+5. 有关于公司的故事
+
+例子：完整的 dcf 模型的几个部分：
+1. income statement 损益表
+    1. 预测
+    2. 额外计算对估值有用的指标，比如 dividend，ebitda
+2. balance sheet 资产负债表 
+    1. current asset 和 non-current asset 会分开
+    2. 难点在于，无法配平，总资产 不等于 总负债
+3. cash flow 现金流量表
+    1. 第一行是 net income 净利润
+    2. 各种现金流
+
 
 
