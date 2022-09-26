@@ -28,3 +28,10 @@ total gross profit，总的毛利润。那么总的毛利润又可以拆分为 s
 
 整个 cost of sale 的预测，其实就是和 revenue 非常类似
 
+其他的成本：
+1. 要么认为 depreciation 折旧，要么和 revenue 保持一致
+    1. other income and gains，这个和 revenue 关系不大，单独预测
+    2. selling and distribution expenses，这个和 revenue 保持一致
+    3. general and administration，管理费用，认为和过去的增长率保持一致
+    4. r & d，研发费用，和卖出费用也没太大关系
+    5. dd & a，depreciation 最严格的方式是 ppe schedule 用固定资产表去计算，对于 depreciation 不太多的公司，可以认为占 revenue 的一定比例
