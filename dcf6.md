@@ -35,3 +35,9 @@ total gross profit，总的毛利润。那么总的毛利润又可以拆分为 s
     3. general and administration，管理费用，认为和过去的增长率保持一致
     4. r & d，研发费用，和卖出费用也没太大关系
     5. dd & a，depreciation 最严格的方式是 ppe schedule 用固定资产表去计算，对于 depreciation 不太多的公司，可以认为占 revenue 的一定比例
+
+pper schedule 固定资产计划表
+1. beg ppe
+2. depreciation，一般是初识 ppe 折旧的百分比
+3. capex 资本购入
+4. 
